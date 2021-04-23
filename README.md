@@ -128,7 +128,9 @@ mall
 [功能结构图-前台.jpg](document/resource/mind_portal.jpg)
 
 #### 开发进度
-
+[root@localhost ~]# rpm -ivh http://dev.mysql.com/get/mysql57-community-release-el7-8.noarch.rpm
+或
+[root@localhost ~]# rpm -ivh http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
 ![项目开发进度图](http://img.macrozheng.com/mall/project/mall_dev_flow.png)
 
 ## 环境搭建
@@ -203,5 +205,6 @@ mall
 ## 许可证
 
 [Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
+
 
 Copyright (c) 2018-2021 macrozheng
